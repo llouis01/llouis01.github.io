@@ -1,5 +1,6 @@
 ---
-layout: default
+new title: Loubens Louis
+description: Analytics Portfolio
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
