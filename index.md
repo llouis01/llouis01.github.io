@@ -1,5 +1,5 @@
 ---
-new title: Loubens Louis
+title: Loubens Louis
 description: Analytics Portfolio
 ---
 
