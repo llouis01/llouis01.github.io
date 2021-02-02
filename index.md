@@ -15,14 +15,14 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
+<dt>Nickname</dt>
+<dd>Lou</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1991</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Cap-Haitien</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Purple</dd>
 </dl>
 
 ```
@@ -30,5 +30,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+The final element is the end of the element table.
 ```
